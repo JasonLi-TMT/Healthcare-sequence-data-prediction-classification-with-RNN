@@ -25,3 +25,24 @@ The detail of data description could be found in the doc folder, there is a read
 
 2: Predictions: GRU, LSTM, I classify the data into quantiles and use accuracy rate as target, but the result is not quite good, only 63% accuracy rate achieved due to time, compuational power & knowledge limitaion.
 
+## some screenshot
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU1.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU2.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU3.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU4.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU5.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU6.png)
+
+
+![Screenshot](https://github.com/ZishuoLi/Healthcare_sequence_data_prediction-Classification_with_deep_learning/blob/master/image/GPU7.png)
