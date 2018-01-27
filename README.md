@@ -1,4 +1,4 @@
-# Healthcare_sequence_data_prediction-Classification_with_deep_learning
+# Healthcare sequence data prediction Classification with deep learning
 
 ## Data description:
 
